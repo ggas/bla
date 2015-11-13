@@ -1,4 +1,4 @@
-# MyRepository
+# Repository
 
 Was ist das?:
 - _kursiv_
